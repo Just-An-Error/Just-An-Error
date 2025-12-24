@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Alex
 
 I'm a student learning **Cloud Development**, passionate about cloud technologies, automation, and coding.
 
