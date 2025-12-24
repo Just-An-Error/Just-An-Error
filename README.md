@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Your Name]
 
-<!--
-**Just-An-Error/Just-An-Error** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student learning **Cloud Development**, passionate about cloud technologies, automation, and coding.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning
+
+- Cloud platforms: **AWS**, **Azure**, **GCP**
+- **Docker** & **Kubernetes**
+- **Terraform** (Infrastructure as Code)
+- Programming: **Python**, **JavaScript**, **Bash**
+
+---
+
+## 💡 Goals
+
+- Deepen knowledge of cloud services and serverless architectures
+- Build practical projects to improve skills
+- Explore automation and DevOps practices
+
+---
+
+> "Learning never exhausts the mind." – Leonardo da Vinci
